@@ -1,0 +1,35 @@
+
+
+h1 {
+    text-align: center;
+    color:black;
+    font-size: 60px;
+}
+.catalog{
+    display: flex;
+    justify-content:space-around ;
+}
+.product{
+    background-color: wheat;
+    padding: 15px;
+    align-content: center;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    background-color:burlywood ;
+    border-radius: 15px;
+    color: blueviolet;
+    font-size: 15px;
+    margin-right: 150px;
+}
+nav{
+    position: fixed;
+    background-image: linear-gradient(to right bottom,yellow,pink);
+    width: 100%;
+    top: 0%;
+    height: 80px;
+}
+nav img{
+    margin-right: 150px;
+}
